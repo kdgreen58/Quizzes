@@ -3,7 +3,7 @@
 #Date: 9/5/2014
 #Course: IS 360 02
 #Week 2 Quiz
-#Summary: Provide answers to elevan questions written in R Script and uploaded to Github.
+#Summary: Provide answers to eleven questions written in R Script and uploaded to Github.
 #===================================================================================
 #1. x<-c(1,1,2,4,5,5,3,3,3,6,7,7,7,8,8,8,8,9,9,1)
 #2. y<-as.character(x)
